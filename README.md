@@ -13,3 +13,9 @@ Awesome Archive of Programming Recipes on Rust Language
 ## Values and Variables
 - We can think of {} as little crab pincers that hold a value in place.
 - You can print more than one value using curly brackets
+
+## Randomness and Crates
+- Rust doesn’t yet include random number functionality in its standard library.
+- Rust team provides a rand crate at https://crates.io/crates/rand
+
+
