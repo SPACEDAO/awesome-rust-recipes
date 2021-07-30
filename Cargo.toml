@@ -1,2 +1,8 @@
+[package]
+name = "rust-recipes"
+version = "0.1.0"
+authors = ["QQ <qq@semiott.org>"]
+edition = "2021"
+
 [dependencies]
 rand = "0.3.14"
