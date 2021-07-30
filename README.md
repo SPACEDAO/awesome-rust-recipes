@@ -8,3 +8,4 @@ Awesome Archive of Programming Recipes on Rust Language
 - The purpose of these Result types is to encode error-handling information.
 - An instance of io::Result has an expect method that you can call. 
 - We can think of {} as little crab pincers that hold a value in place.
+- You can print more than one value using curly brackets
